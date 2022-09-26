@@ -1,6 +1,6 @@
 ## Microverse Trials Project Review
 
-> A freeCodeCamp project build for Microverse Trials durng Pair Programming.
+> Reviewed a freeCodeCamp project build for Microverse Trials durng Pair Programming.
 
 ## Built With
 
