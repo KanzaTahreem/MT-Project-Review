@@ -9,13 +9,13 @@
 
 ## Live Demo
 
-[Live Demo Link](https://kanzatahreem.github.io/Microverse-Trials-Project-Review/)
+[Live Demo Link](https://kanzatahreem.github.io/MT-Project-Review/)
 
 ## Getting Started
 
 To get a local copy, run the fllowing command.
 
-- `git clone git@github.com:KanzaTahreem/Microverse-Trials-Project-Review.git`
+- `git clone git@github.com:KanzaTahreem/MT-Project-Review.git`
 
 ### Usage
 
