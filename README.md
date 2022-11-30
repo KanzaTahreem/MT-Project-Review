@@ -1,4 +1,4 @@
-# Microverse Trials Project Review
+# MT Project Review
 
 > Reviewed a project built during Microverse Trials.
 
